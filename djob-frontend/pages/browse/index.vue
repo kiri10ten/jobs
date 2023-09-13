@@ -25,77 +25,11 @@
 
         
          
-          <div>
-                
-            <div class="p-6 flex items-center justify-between bg-gray-100 ">
-                <div>
-                    <h3 class="mb-2 text-xl font-semibold">Title</h3>
-                    <p class="text-gray-600">subject</p>
-                </div>
+          <job/>
+          <job/>
+          <job/>
 
-                <div>
-                    <p class="mb-2">Authour name </p>
-               
-                </div>
-
-                <div>
-                    <p>created_at_formatted</p>
-                </div>
-
-                <div class="space-x-4">
-                    <NuxtLink to="/browse/1" class="py-4 px-6 bg-teal-700 text-white rounded">Details</NuxtLink>
-                    <NuxtLink  class="py-4 px-6 bg-cyan-700 text-white rounded">Edit</NuxtLink>
-                    <a class="py-4 px-6 bg-rose-700 text-white rounded" >Delete</a>
-                </div>
-            </div>
-   
-                    </div>
-
-                     <div class="p-6 flex items-center justify-between bg-gray-100 ">
-                    <div>
-                        <h3 class="mb-2 text-xl font-semibold">Title</h3>
-                        <p class="text-gray-600">subject</p>
-                    </div>
-
-                    <div>
-                        <p class="mb-2">Authour name </p>
-               
-                    </div>
-
-                    <div>
-                        <p>created_at_formatted</p>
-                    </div>
-
-                    <div class="space-x-4">
-                        <NuxtLink class="py-4 px-6 bg-teal-700 text-white rounded">Details</NuxtLink>
-                        <NuxtLink  class="py-4 px-6 bg-cyan-700 text-white rounded">Edit</NuxtLink>
-                        <a class="py-4 px-6 bg-rose-700 text-white rounded" >Delete</a>
-                    </div>
-                </div>
-   
                     
-                         <div class="p-6 flex items-center justify-between bg-gray-100 ">
-                    <div>
-                        <h3 class="mb-2 text-xl font-semibold">Title</h3>
-                        <p class="text-gray-600">subject</p>
-                    </div>
-
-                    <div>
-                        <p class="mb-2">Authour name </p>
-               
-                    </div>
-
-                    <div>
-                        <p>created_at_formatted</p>
-                    </div>
-
-                    <div class="space-x-4">
-                        <NuxtLink class="py-4 px-6 bg-teal-700 text-white rounded">Details</NuxtLink>
-                        <NuxtLink  class="py-4 px-6 bg-cyan-700 text-white rounded">Edit</NuxtLink>
-                        <a class="py-4 px-6 bg-rose-700 text-white rounded" >Delete</a>
-                    </div>
-                </div>
-   
                     
             
         
